@@ -6,4 +6,6 @@
 * Meetings are on Wednesday at 10am via skype unless otherwise stated.
 
 
-Jun 22 2016, Emery: [Learning Deep Generative Models, Ruslan Salakhutdinov, 2015](http://www.cs.toronto.edu/~rsalakhu/papers/annrev.pdf)
+| Date        | Discussion Leader     | Paper  |
+| ------------|-----------------------| ----- |
+|Jun 22 2016  |  Emery                |[Learning Deep Generative Models, Ruslan Salakhutdinov, 2015](http://www.cs.toronto.edu/~rsalakhu/papers/annrev.pdf)|
