@@ -8,4 +8,5 @@
 
 | Date        | Discussion Leader     | Paper  |
 | ------------|-----------------------| ----- |
+|July 6 2016  |  Emery                |[ImageNet Classification with Deep Convolutional Neural Networks, Krizhevsky et al, 2012](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)|
 |Jun 22 2016  |  Emery                |[Learning Deep Generative Models, Ruslan Salakhutdinov, 2015](http://www.cs.toronto.edu/~rsalakhu/papers/annrev.pdf)|
