@@ -8,7 +8,7 @@
 
 | Date        | Discussion Leader     | Paper  |
 | ------------|-----------------------| ----- |
-|August 17 (?) 2016  |  Sicheng                |[Convolutional Networks, Chapter 9 of Goodfellow et al, 2016](http://www.deeplearningbook.org/contents/convnets.html)|
+|August 19 2016 noon |  Sicheng                |[Convolutional Networks, Chapter 9 of Goodfellow et al, 2016](http://www.deeplearningbook.org/contents/convnets.html)|
 |August 10 2016  |  Alex and Emery                |[Regularization for Deep Learning, Chapter 7 of Goodfellow et al, 2016](http://www.deeplearningbook.org/contents/regularization.html) and [Optimization for Training DeepModels, Chapter 8 of Goodfellow et al, 2016](http://www.deeplearningbook.org/contents/optimization.html)|
 |July 20 2016  |  Heejung                |[Deep Feedforward Networks, Chapter 6 of Goodfellow et al, 2016](http://www.deeplearningbook.org/contents/mlp.html)|
 |July 6 2016  |  Emery                |[ImageNet Classification with Deep Convolutional Neural Networks, Krizhevsky et al, 2012](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)|
