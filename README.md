@@ -8,6 +8,7 @@
 
 | Date        | Discussion Leader     | Paper  |
 | ------------|-----------------------| ----- |
+|September 7 2016 |  Alex              |[DanQ: a hybrid convolutional and recurrent deep neural network for quantifying the function of DNA sequences, Quang and Xie, 2016](http://nar.oxfordjournals.org/content/44/11/e107)|
 |August 31 2016 |  Emery                |[Sequence Modeling: Recurrentand Recursive Nets, Chapter 10 of Goodfellow et al, 2016](http://www.deeplearningbook.org/contents/rnn.html)|
 |August 24 2016 3:30pm ET |  Alex                |[Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning,  Alipanahi et al, 2015](http://www.nature.com/nbt/journal/v33/n8/full/nbt.3300.html)|
 |August 19 2016 noon |  Sicheng and Patrick                |[Convolutional Networks, Chapter 9 of Goodfellow et al, 2016](http://www.deeplearningbook.org/contents/convnets.html)|
