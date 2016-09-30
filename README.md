@@ -8,6 +8,8 @@
 
 | Date        | Discussion Leader     | Paper  |
 | ------------|-----------------------| ----- |
+|October 5 2016 |                |Brainstorming for projects |
+|September 28 2016 |                |Brainstorming for projects |
 |September 21 2016 |  Emery and Alex              |[Basset: learning the regulatory code of the accessible genome with deep convolutional neural networks, Kelley et al, 2016](http://genome.cshlp.org/content/26/7/990.long)|
 |September 7 2016 |  Alex              |[DanQ: a hybrid convolutional and recurrent deep neural network for quantifying the function of DNA sequences, Quang and Xie, 2016](http://nar.oxfordjournals.org/content/44/11/e107)|
 |August 31 2016 |  Emery                |[Sequence Modeling: Recurrentand Recursive Nets, Chapter 10 of Goodfellow et al, 2016](http://www.deeplearningbook.org/contents/rnn.html)|
