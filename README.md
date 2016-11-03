@@ -8,6 +8,7 @@
 
 | Date        | Discussion Leader     | Paper  |
 | ------------|-----------------------| ----- |
+|November 2 2016 |  Alex              |research update |
 |October 5 2016 |                |Brainstorming for projects |
 |September 28 2016 |                |Brainstorming for projects |
 |September 21 2016 |  Emery and Alex              |[Basset: learning the regulatory code of the accessible genome with deep convolutional neural networks, Kelley et al, 2016](http://genome.cshlp.org/content/26/7/990.long)|
