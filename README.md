@@ -8,7 +8,7 @@
 
 | Date        | Discussion Leader     | Paper  |
 | ------------|-----------------------| ----- |
-|November 16 2016 |  Emery              |[Generative Adversarial Nets, Goodfellow et al, 2016](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) |
+|November 16 2016 |  Emery              |[Generative Adversarial Nets, Goodfellow et al, 2016](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [OpenAI: Generative Models](https://openai.com/blog/generative-models/) |
 |November 2 2016 |  Alex              |research update |
 |October 5 2016 |                |Brainstorming for projects |
 |September 28 2016 |                |Brainstorming for projects |
